@@ -1,0 +1,4 @@
+name: urban_pulse_workspace
+
+packages:
+  - packages/*
